@@ -1,0 +1,28 @@
+{
+  "name": "taller-10",
+  "version": "1.0.0",
+  "description": "Adoption site for pets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvnzalez/TALLER-10-NODEJS-SERVER-EXPRESS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Andres Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gvnzalez/TALLER-10-NODEJS-SERVER-EXPRESS/issues"
+  },
+  "homepage": "https://github.com/gvnzalez/TALLER-10-NODEJS-SERVER-EXPRESS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9"
+  }
+}
